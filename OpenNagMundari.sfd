@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1663167793
-ModificationTime: 1663252985
+ModificationTime: 1663489192
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -41,11 +41,12 @@ HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
 OS2Vendor: 'PfEd'
+OS2CodePages: 00000003.00000000
+OS2UnicodeRanges: 00000007.00000000.00000000.00000000
 MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "Copyright (c) 2022, Dr Anirban Mitra+AAoA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is available with a FAQ at:+AAoA-http://scripts.sil.org/OFL" "http://scripts.sil.org/OFL"
-Encoding: Custom
-Compacted: 1
+Encoding: UnicodeFull
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
@@ -54,10 +55,10 @@ FitToEm: 1
 WinInfo: 0 27 9
 BeginPrivate: 0
 EndPrivate
-BeginChars: 299 43
+BeginChars: 1114112 44
 
 StartChar: u1E4D0
-Encoding: 256 124112 0
+Encoding: 124112 124112 0
 Width: 532
 Flags: HMW
 LayerCount: 2
@@ -92,7 +93,7 @@ EndSplineSet
 EndChar
 
 StartChar: u1E4D1
-Encoding: 257 124113 1
+Encoding: 124113 124113 1
 Width: 892
 Flags: HW
 LayerCount: 2
@@ -123,7 +124,7 @@ EndSplineSet
 EndChar
 
 StartChar: u1E4D2
-Encoding: 258 124114 2
+Encoding: 124114 124114 2
 Width: 846
 Flags: HW
 LayerCount: 2
@@ -141,7 +142,7 @@ EndSplineSet
 EndChar
 
 StartChar: u1E4D3
-Encoding: 259 124115 3
+Encoding: 124115 124115 3
 Width: 888
 Flags: HW
 LayerCount: 2
@@ -167,7 +168,7 @@ EndSplineSet
 EndChar
 
 StartChar: u1E4D4
-Encoding: 260 124116 4
+Encoding: 124116 124116 4
 Width: 782
 Flags: HW
 LayerCount: 2
@@ -190,7 +191,7 @@ EndSplineSet
 EndChar
 
 StartChar: u1E4D5
-Encoding: 261 124117 5
+Encoding: 124117 124117 5
 Width: 762
 Flags: HW
 LayerCount: 2
@@ -223,7 +224,7 @@ EndSplineSet
 EndChar
 
 StartChar: u1E4D6
-Encoding: 262 124118 6
+Encoding: 124118 124118 6
 Width: 860
 Flags: HW
 LayerCount: 2
@@ -246,7 +247,7 @@ EndSplineSet
 EndChar
 
 StartChar: u1E4D7
-Encoding: 263 124119 7
+Encoding: 124119 124119 7
 Width: 758
 Flags: HW
 LayerCount: 2
@@ -277,7 +278,7 @@ EndSplineSet
 EndChar
 
 StartChar: u1E4D8
-Encoding: 264 124120 8
+Encoding: 124120 124120 8
 Width: 772
 Flags: HW
 LayerCount: 2
@@ -300,7 +301,7 @@ EndSplineSet
 EndChar
 
 StartChar: u1E4D9
-Encoding: 265 124121 9
+Encoding: 124121 124121 9
 Width: 794
 Flags: HW
 LayerCount: 2
@@ -324,7 +325,7 @@ EndSplineSet
 EndChar
 
 StartChar: u1E4DA
-Encoding: 266 124122 10
+Encoding: 124122 124122 10
 Width: 806
 Flags: HW
 LayerCount: 2
@@ -362,7 +363,7 @@ EndSplineSet
 EndChar
 
 StartChar: u1E4DB
-Encoding: 267 124123 11
+Encoding: 124123 124123 11
 Width: 726
 Flags: HW
 LayerCount: 2
@@ -390,7 +391,7 @@ EndSplineSet
 EndChar
 
 StartChar: u1E4DC
-Encoding: 268 124124 12
+Encoding: 124124 124124 12
 Width: 836
 Flags: HW
 LayerCount: 2
@@ -413,7 +414,7 @@ EndSplineSet
 EndChar
 
 StartChar: u1E4DD
-Encoding: 269 124125 13
+Encoding: 124125 124125 13
 Width: 778
 Flags: HW
 LayerCount: 2
@@ -448,7 +449,7 @@ EndSplineSet
 EndChar
 
 StartChar: u1E4DE
-Encoding: 270 124126 14
+Encoding: 124126 124126 14
 Width: 616
 Flags: HW
 LayerCount: 2
@@ -473,7 +474,7 @@ EndSplineSet
 EndChar
 
 StartChar: u1E4DF
-Encoding: 271 124127 15
+Encoding: 124127 124127 15
 Width: 632
 Flags: HW
 LayerCount: 2
@@ -493,7 +494,7 @@ EndSplineSet
 EndChar
 
 StartChar: u1E4E0
-Encoding: 272 124128 16
+Encoding: 124128 124128 16
 Width: 696
 Flags: HW
 LayerCount: 2
@@ -527,7 +528,7 @@ EndSplineSet
 EndChar
 
 StartChar: u1E4E1
-Encoding: 273 124129 17
+Encoding: 124129 124129 17
 Width: 660
 Flags: HW
 LayerCount: 2
@@ -559,7 +560,7 @@ EndSplineSet
 EndChar
 
 StartChar: u1E4E2
-Encoding: 274 124130 18
+Encoding: 124130 124130 18
 Width: 680
 Flags: HW
 LayerCount: 2
@@ -589,7 +590,7 @@ EndSplineSet
 EndChar
 
 StartChar: u1E4E3
-Encoding: 275 124131 19
+Encoding: 124131 124131 19
 Width: 686
 Flags: HW
 LayerCount: 2
@@ -622,7 +623,7 @@ EndSplineSet
 EndChar
 
 StartChar: u1E4E4
-Encoding: 276 124132 20
+Encoding: 124132 124132 20
 Width: 596
 Flags: HW
 LayerCount: 2
@@ -648,7 +649,7 @@ EndSplineSet
 EndChar
 
 StartChar: u1E4E5
-Encoding: 277 124133 21
+Encoding: 124133 124133 21
 Width: 694
 Flags: HW
 LayerCount: 2
@@ -669,7 +670,7 @@ EndSplineSet
 EndChar
 
 StartChar: u1E4E6
-Encoding: 278 124134 22
+Encoding: 124134 124134 22
 Width: 730
 Flags: HW
 LayerCount: 2
@@ -700,7 +701,7 @@ EndSplineSet
 EndChar
 
 StartChar: u1E4E7
-Encoding: 279 124135 23
+Encoding: 124135 124135 23
 Width: 688
 Flags: HW
 LayerCount: 2
@@ -728,7 +729,7 @@ EndSplineSet
 EndChar
 
 StartChar: u1E4E8
-Encoding: 280 124136 24
+Encoding: 124136 124136 24
 Width: 722
 Flags: HW
 LayerCount: 2
@@ -748,7 +749,7 @@ EndSplineSet
 EndChar
 
 StartChar: u1E4E9
-Encoding: 281 124137 25
+Encoding: 124137 124137 25
 Width: 760
 Flags: HW
 LayerCount: 2
@@ -771,7 +772,7 @@ EndSplineSet
 EndChar
 
 StartChar: u1E4EA
-Encoding: 282 124138 26
+Encoding: 124138 124138 26
 Width: 694
 Flags: HW
 LayerCount: 2
@@ -805,7 +806,7 @@ EndSplineSet
 EndChar
 
 StartChar: u1E4EB
-Encoding: 283 124139 27
+Encoding: 124139 124139 27
 Width: 688
 Flags: HW
 LayerCount: 2
@@ -831,7 +832,7 @@ EndSplineSet
 EndChar
 
 StartChar: u1E4EC
-Encoding: 284 124140 28
+Encoding: 124140 124140 28
 Width: 3
 GlyphClass: 4
 Flags: HW
@@ -849,7 +850,7 @@ EndSplineSet
 EndChar
 
 StartChar: u1E4ED
-Encoding: 285 124141 29
+Encoding: 124141 124141 29
 Width: 7
 GlyphClass: 4
 Flags: HW
@@ -864,7 +865,7 @@ EndSplineSet
 EndChar
 
 StartChar: u1E4EE
-Encoding: 286 124142 30
+Encoding: 124142 124142 30
 Width: 5
 Flags: HMW
 LayerCount: 2
@@ -881,7 +882,7 @@ EndSplineSet
 EndChar
 
 StartChar: u1E4EF
-Encoding: 287 124143 31
+Encoding: 124143 124143 31
 Width: 0
 GlyphClass: 4
 Flags: HW
@@ -919,7 +920,7 @@ EndSplineSet
 EndChar
 
 StartChar: u1E4F0
-Encoding: 288 124144 32
+Encoding: 124144 124144 32
 Width: 802
 Flags: HW
 LayerCount: 2
@@ -938,7 +939,7 @@ EndSplineSet
 EndChar
 
 StartChar: u1E4F1
-Encoding: 289 124145 33
+Encoding: 124145 124145 33
 Width: 436
 Flags: HW
 LayerCount: 2
@@ -953,7 +954,7 @@ EndSplineSet
 EndChar
 
 StartChar: u1E4F2
-Encoding: 290 124146 34
+Encoding: 124146 124146 34
 Width: 682
 Flags: HW
 LayerCount: 2
@@ -970,7 +971,7 @@ EndSplineSet
 EndChar
 
 StartChar: u1E4F3
-Encoding: 291 124147 35
+Encoding: 124147 124147 35
 Width: 864
 Flags: HW
 LayerCount: 2
@@ -991,7 +992,7 @@ EndSplineSet
 EndChar
 
 StartChar: u1E4F4
-Encoding: 292 124148 36
+Encoding: 124148 124148 36
 Width: 834
 Flags: HW
 LayerCount: 2
@@ -1014,7 +1015,7 @@ EndSplineSet
 EndChar
 
 StartChar: u1E4F5
-Encoding: 293 124149 37
+Encoding: 124149 124149 37
 Width: 770
 Flags: HW
 LayerCount: 2
@@ -1040,7 +1041,7 @@ EndSplineSet
 EndChar
 
 StartChar: u1E4F6
-Encoding: 294 124150 38
+Encoding: 124150 124150 38
 Width: 646
 Flags: HW
 LayerCount: 2
@@ -1058,7 +1059,7 @@ EndSplineSet
 EndChar
 
 StartChar: u1E4F7
-Encoding: 295 124151 39
+Encoding: 124151 124151 39
 Width: 762
 Flags: HW
 LayerCount: 2
@@ -1079,7 +1080,7 @@ EndSplineSet
 EndChar
 
 StartChar: u1E4F8
-Encoding: 296 124152 40
+Encoding: 124152 124152 40
 Width: 752
 Flags: HW
 LayerCount: 2
@@ -1100,7 +1101,7 @@ EndSplineSet
 EndChar
 
 StartChar: u1E4F9
-Encoding: 297 124153 41
+Encoding: 124153 124153 41
 Width: 736
 Flags: HW
 LayerCount: 2
@@ -1118,10 +1119,30 @@ EndSplineSet
 EndChar
 
 StartChar: space
-Encoding: 298 32 42
+Encoding: 32 32 42
 Width: 614
 Flags: HW
 LayerCount: 2
+EndChar
+
+StartChar: uni0000
+Encoding: 0 0 43
+Width: 1000
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+427 516 m 5
+ 427 108 l 5
+ 659 108 l 5
+ 659 516 l 5
+ 427 516 l 5
+381 600 m 1
+ 715 600 l 1
+ 715 32 l 1
+ 381 32 l 1
+ 381 600 l 1
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont

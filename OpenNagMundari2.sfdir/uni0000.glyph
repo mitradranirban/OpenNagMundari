@@ -1,0 +1,19 @@
+StartChar: uni0000
+Encoding: 0 0 43
+Width: 1000
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+427 516 m 5
+ 427 108 l 5
+ 659 108 l 5
+ 659 516 l 5
+ 427 516 l 5
+381 600 m 1
+ 715 600 l 1
+ 715 32 l 1
+ 381 32 l 1
+ 381 600 l 1
+EndSplineSet
+EndChar

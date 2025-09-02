@@ -1,0 +1,15 @@
+
+#Mark attachment classes (defined in GDEF, used in lookupflags)
+
+@GDEF_Simple = [\u1E4D0 \u1E4D1 \u1E4D2 \u1E4D3 \u1E4D4 \u1E4D5 \u1E4D6 \u1E4D7 
+	\u1E4D8 \u1E4D9 \u1E4DA \u1E4DB \u1E4DC \u1E4DD \u1E4DE \u1E4DF \u1E4E0 \u1E4E1 
+	\u1E4E2 \u1E4E3 \u1E4E4 \u1E4E5 \u1E4E6 \u1E4E7 \u1E4E8 \u1E4E9 \u1E4EA \u1E4EB 
+	\u1E4EE \u1E4F0 \u1E4F1 \u1E4F2 \u1E4F3 \u1E4F4 \u1E4F5 \u1E4F6 \u1E4F7 \u1E4F8 
+	\u1E4F9 \space \uni0000 ];
+@GDEF_Mark = [\u1E4EC \u1E4ED \u1E4EF ];
+
+table GDEF {
+  GlyphClassDef @GDEF_Simple, , @GDEF_Mark, ;
+
+} GDEF;
+
