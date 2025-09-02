@@ -1,17 +1,16 @@
 StartChar: u1E4EC
-Encoding: 124140 124140 28
-Width: 3
+Encoding: 30 124140 28
+Width: 0
 GlyphClass: 4
-Flags: HW
+Flags: W
+AnchorPoint: "top" -320 789 mark 0
 LayerCount: 2
 Fore
 SplineSet
--195 1020 m 5
- -144.626933041 1023.24871131 l 5
- -116.626933041 981.248711306 l 5
- -139 936 l 5
- -189.373066959 932.751288694 l 5
- -217.373066959 974.751288694 l 5
- -195 1020 l 5
+-56 868 m 4
+ -56 897 -32 921 -1 921 c 4
+ 30 921 55 897 55 868 c 4
+ 55 839 30 816 -1 816 c 4
+ -32 816 -56 839 -56 868 c 4
 EndSplineSet
 EndChar

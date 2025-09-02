@@ -1,7 +1,9 @@
 StartChar: u1E4D1
-Encoding: 124113 124113 1
+Encoding: 3 124113 1
 Width: 720
-Flags: HW
+Flags: W
+AnchorPoint: "top" 586 761 basechar 0
+AnchorPoint: "bottom" 388 -23 basechar 0
 LayerCount: 2
 Back
 Image: 52 57 3 208 0 ffffffff -46 796 14.6923 14.6316 0

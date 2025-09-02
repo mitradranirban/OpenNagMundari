@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1663167793
-ModificationTime: 1756747399
+ModificationTime: 1756812054
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -43,11 +43,11 @@ HheadDOffset: 1
 OS2Vendor: 'PfEd'
 OS2CodePages: 00000003.00000000
 OS2UnicodeRanges: 00000007.00000000.00000000.00000000
+Lookup: 260 0 0 "'mark' Mark Positioning in Nag Mundari lookup 0" { "'mark' Mark Positioning in Nag Mundari lookup 0-1"  } ['mark' ('DFLT' <'dflt' > 'nagm' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "Copyright (c) 2022, Dr Anirban Mitra+AAoA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is available with a FAQ at:+AAoA-https://openfontlicense.org" "https://openfontlicense.org"
-Encoding: UnicodeFull
-Compacted: 1
+Encoding: Custom
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
@@ -56,4 +56,10 @@ FitToEm: 1
 WinInfo: 0 27 9
 BeginPrivate: 0
 EndPrivate
+Grid
+-1000 709.87109375 m 0
+ 2000 709.87109375 l 1024
+  Named: "CAPS"
+EndSplineSet
+AnchorClass2: "bottom" "'mark' Mark Positioning in Nag Mundari lookup 0-1" "top" "'mark' Mark Positioning in Nag Mundari lookup 0-1"
 EndSplineFont
